@@ -44,17 +44,20 @@
 ##
 
 - ### Manage blog post or an article
-	- ### How to create a post
-	1. At the left pane, hover over the **Posts** then click **Add New**
-	![Image2.1](/img/2.1.PNG)
+  #### How to create a post
+  1. At the left pane, hover over the **Posts** then click **Add New**
+  ![Image2.1](/img/2.1.PNG)
 	
-	2. On the Post editor page, type in the required **post title** and **post content**
-	![Image2.2](/img/2.2.PNG)
+  2. On the Post editor page, type in the required **post title** and **post content**
+  ![Image2.2](/img/2.2.PNG)
 	
-	3. Once done, click the Publish button
+  3. Once done, click the Publish button
 
-	- ### How to update a post
-  	- ### How to delete a post
+  #### How to update a post
+  1. At the left pane, click the **Posts**, hover over the desired post and click **edit**
+  ![Image2.2](/img/2.3.png) 
+
+  #### How to delete a post
 			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
 - Create/ Post/ Update/ Delete a page			
