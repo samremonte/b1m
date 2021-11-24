@@ -1,1 +1,25 @@
-# b1m
+- Create/ Post/ Update/ Delete a blog/ article			
+- Create/ Post/ Update/ Delete an activity/ newsfeed			
+- Create/ Post/ Update/ Delete a page			
+- Create Menu			
+- Publish post			
+- Manage profile/ accounts			
+- Upload personal/ group documents and images			
+- Message another member			
+- Participate in a forum			
+- Create/ Update/ Delete User			
+- Create/ Update/ Delete Group			
+- Create/ Update/ Delete Forums			
+- Create/ Update/ Delete Categories			
+- Create/ Update/ Delete Tags			
+- Create/ Update/ Delete Course			
+- Create/ Update/ Delete Lesson			
+- Create/ Update/ Delete Topics			
+- Create/ Update/ Delete Assignments			
+- Create/ Update/ Delete Quiz			
+- Enroll and pursue a course			
+- Take Quiz			
+- Submit Assignments			
+- How to participate in a zoom meeting			
+- Create/ Update/ Delete Zoom Meeting			
+- Create/ Update/ Delete Form			
