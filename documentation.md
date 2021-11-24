@@ -1,4 +1,4 @@
-#Bawat Isa Mahalaga - Website Documentation
+# Bawat Isa Mahalaga - Website Documentation
 
 - Create/ Post/ Update/ Delete a blog/ article			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
