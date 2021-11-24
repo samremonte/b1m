@@ -5,7 +5,10 @@
 > #### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
 
 ## Content
-- Manage blog post or an article
+- [Manage blog post or an article](#manage-blog-post-or-an-article)
+	- How to create a post
+	- How to update a post
+	- How to delete a post
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
 - Create/ Post/ Update/ Delete a page			
 - Create Menu			
@@ -41,8 +44,16 @@
 ##
 
 - ### Manage blog post or an article
-  <sup>Before proceeding to the steps below make sure you are logged in to the website otherwise follow the instructions on How to login to the Bawat Isa Mahalaga website.</sup>
 	- How to **create** a post
+	1. At the left pane, hover over the **Posts** then click **Add New**
+	![Image2.1](/img/2.1.PNG)
+	
+	2. On the Post editor page, type in the required **post title** and **post content**
+	![Image2.2](/img/2.2.PNG)
+	
+	3. Once done, click the Publish button
+
+
 	- How to **update** a post
   	- How to **delete** a post
 			
