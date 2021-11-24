@@ -1,18 +1,19 @@
-# Bawat Isa Mahalaga - Website Documentation
+## Bawat Isa Mahalaga - Website Documentation
 
-> ### First, make sure you have obtained your login information to the website otherwise contact the administrator at b1m@gmail.com
+> #### First, make sure you have obtained your login information to the website otherwise contact the administrator at b1m@gmail.com
 
-> ### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
+> #### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
 #
 &nbsp;
 &nbsp;
-- #### How to create a blog Post
+- ### How to create a blog Post
 1. Once you have acquired your login information proceed to the website by clicking the link https://b1m.org/wp-admin/
 2. On the login page, type in your **Username** and **Password** to the text fields respectively and then press the Log in button.
 ![Image](/img/1-1-Login.PNG)
 &nbsp;
-  - Update a post
-  - Delete a post
+	- How to **update** a post
+	
+  	- How to **delete** a post
 			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
 - Create/ Post/ Update/ Delete a page			
