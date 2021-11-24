@@ -5,7 +5,13 @@
 > ### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
 &nbsp;
 &nbsp;
-- Create/ Post/ Update/ Delete a blog/ article			
+- How to create a blog Post
+  1. Once you have acquired your login information proceed to the website by clicking the link https://b1m.org/wp-admin/
+  2. On the login page, type in your Username and Password to the text fields and then press the Log in button.
+     
+  - Update a post
+  - Delete a post
+			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
 - Create/ Post/ Update/ Delete a page			
 - Create Menu			
