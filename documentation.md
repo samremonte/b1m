@@ -3,8 +3,8 @@
 > ### First, make sure you have obtained your login information to the website otherwise contact the administrator at b1m@gmail.com
 
 > ### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
-
-
+&nbsp;
+&nbsp;
 - Create/ Post/ Update/ Delete a blog/ article			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
 - Create/ Post/ Update/ Delete a page			
