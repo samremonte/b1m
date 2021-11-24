@@ -7,8 +7,8 @@
 ## Content
 - [Manage blog post or an article](#manage-blog-post-or-an-article)
 	- [How to create a post](#how-to-create-a-post)
-	- How to update a post
-	- How to delete a post
+	- [How to update a post](#how-to-update-a-post)
+	- [How to delete a post](#how-to-delete-a-post)
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
 - Create/ Post/ Update/ Delete a page			
 - Create Menu			
@@ -51,13 +51,16 @@
   2. On the Post editor page, type in the required **post title** and **post content**
   ![Image2.2](/img/2.2.PNG)
 	
-  3. Once done, click the Publish button
+  3. Once done, click the **Publish** button
+  ![Image2.4](/img/2.4.PNG) 
 
   #### How to update a post
-  1. At the left pane, click the **Posts**, hover over the desired post and click **edit**
+  1. At the left pane, click the **Posts**, hover over the desired post and click **Edit**
   ![Image2.3](/img/2.3.png) 
+  
   2. Once the required content is added or update clikc **Update** button 
   
+
   #### How to delete a post
 			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
