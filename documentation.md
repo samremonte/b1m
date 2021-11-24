@@ -53,9 +53,8 @@
 	
 	3. Once done, click the Publish button
 
-
-	- How to **update** a post
-  	- How to **delete** a post
+	- ### How to update a post
+  	- ### How to delete a post
 			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
 - Create/ Post/ Update/ Delete a page			
