@@ -6,13 +6,16 @@
 #
 &nbsp;
 &nbsp;
-- ### How to create a blog Post
+- ### How to login to the website
 1. Once you have acquired your login information proceed to the website by clicking the link https://b1m.org/wp-admin/
 2. On the login page, type in your **Username** and **Password** to the text fields respectively and then press the Log in button.
 ![Image](/img/1-1-Login.PNG)
 &nbsp;
+
+- ### Manage blog post or an article
+  <sub>Before proceeding to the steps below make sure you are logged in to the website otherwise follow the instructions on How to login to the Bawat Isa Mahalaga website.</sub>
+	- How to **create** a post
 	- How to **update** a post
-	
   	- How to **delete** a post
 			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
