@@ -58,7 +58,7 @@
   1. At the left pane, click the **Posts**, hover over the desired post and click **Edit**
   ![Image2.3](/img/2.3.png) 
   
-  2. Once the required content is added or update clikc **Update** button 
+  2. Once the required content is added or edited click **Update** button 
   
 
   #### How to delete a post
