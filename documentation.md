@@ -55,8 +55,9 @@
 
   #### How to update a post
   1. At the left pane, click the **Posts**, hover over the desired post and click **edit**
-  ![Image2.2](/img/2.3.png) 
-
+  ![Image2.3](/img/2.3.png) 
+  2. Once the required content is added or update clikc **Update** button 
+  
   #### How to delete a post
 			
 - Create/ Post/ Update/ Delete an activity/ newsfeed			
