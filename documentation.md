@@ -44,7 +44,7 @@
 ##
 
 - ### Manage blog post or an article
-	- How to create a post
+	- <h3 id="how-to-create-a-post">How to create a post</h3>
 	1. At the left pane, hover over the **Posts** then click **Add New**
 	![Image2.1](/img/2.1.PNG)
 	
