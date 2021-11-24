@@ -49,11 +49,18 @@
 ![Image2.1](/img/2.1.PNG)
 &nbsp;
 &nbsp;
+
+
 2. On the Post editor page, type in the required **post title** and **post content**.
 ![Image2.2](/img/2.2.PNG)
 &nbsp;
 &nbsp;
+
+
 3. Once done, click the **Publish** button.
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
