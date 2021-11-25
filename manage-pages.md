@@ -21,7 +21,7 @@
 
 2. Once the required content is added or edited click **Update** button. 
 
-![Image2.4](/img/2.4.PNG)
+![Image3.4](/img/3.4.PNG)
 
 #
   ### How to delete a page
