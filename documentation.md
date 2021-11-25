@@ -5,7 +5,7 @@
 > #### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
 
 ## Content
-- [Manage blog post or an article](https://github.com/samremonte/b1m/edit/main/manage-post.md)
+- [Manage blog post or an article](https://github.com/samremonte/b1m/edit/main/manage-posts.md)
 	- How to create a post
 	- How to update a post
 	- How to delete a post
