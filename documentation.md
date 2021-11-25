@@ -10,7 +10,7 @@
 	- How to update a post
 	- How to delete a post
 
-- #### [Manage pages](https://github.com/samremonte/b1m/edit/main/manage-pages.md)
+- #### [Manage pages](https://github.com/samremonte/b1m/blob/main/manage-pages.md)
 	- How to create a page
 	- How to update a page
 	- How to delete a page
