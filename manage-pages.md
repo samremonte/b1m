@@ -1,6 +1,6 @@
 - # Manage pages
-  ### How to create a page
-## 1. At the left pane, hover over the **Pages** then click **Add New**.
+  ## How to create a page
+ ### 1. At the left pane, hover over the **Pages** then click **Add New**.
 
 ![Image3.1](/img/3.1.PNG)
 
