@@ -31,3 +31,5 @@
   **1. Proceed to the Pages page then hover over the desired page and click _Trash_.**
 
 ![Image3.5](/img/3.5.PNG)
+
+  **2. And then click _Ok_.**
