@@ -5,20 +5,20 @@
 > #### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
 
 ## Content
-- [Manage blog post or an article](https://github.com/samremonte/b1m/blob/main/manage-posts.md)
+- #### [Manage blog post or an article](https://github.com/samremonte/b1m/blob/main/manage-posts.md)
 	- How to create a post
 	- How to update a post
 	- How to delete a post
-	
-- Manage activities/newsfeed
-	- How to create a activity
-	- How to update a activity
-	- How to delete a activity
 
 - [Manage pages](https://github.com/samremonte/b1m/edit/main/manage-pages.md)
 	- How to create a page
 	- How to update a page
 	- How to delete a page
+
+- Manage activities/newsfeed
+	- How to create an activity
+	- How to update an activity
+	- How to delete an activity
 
 - Create Menu			
 - Manage profile/ accounts			
