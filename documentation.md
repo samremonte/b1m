@@ -5,14 +5,22 @@
 > #### Before proceeding to any of the how-to guides on the list below it's necessary that you are logged in to the website. If not, please check the steps on [How to login to the website](#how-to-login-to-the-website)
 
 ## Content
-- [Manage blog post or an article](#manage-blog-post-or-an-article)
-	- [How to create a post](#how-to-create-a-post)
-	- [How to update a post](#how-to-update-a-post)
-	- [How to delete a post](#how-to-delete-a-post)
-- Create/ Post/ Update/ Delete an activity/ newsfeed			
-- Create/ Post/ Update/ Delete a page			
+- [Manage blog post or an article](https://github.com/samremonte/b1m/edit/main/manage-post.md)
+	- How to create a post
+	- How to update a post
+	- How to delete a post
+	
+- Manage activities/newsfeed
+	- How to create a activity
+	- How to update a activity
+	- How to delete a activity
+
+- [Manage pages](https://github.com/samremonte/b1m/edit/main/manage-pages.md)
+	- How to create a page
+	- How to update a page
+	- How to delete a page
+
 - Create Menu			
-- Publish post			
 - Manage profile/ accounts			
 - Upload personal/ group documents and images			
 - Message another member			
@@ -43,29 +51,7 @@
 &nbsp;
 ##
 
-- ### Manage blog post or an article
-  ### How to create a post
-1. At the left pane, hover over the **Posts** then click **Add New**.
-![Image2.1](/img/2.1.PNG)
 
-
-2. On the Post editor page, type in the required **post title** and **post content**.
-![Image2.2](/img/2.2.PNG)
-
-
-3. Once done, click the **Publish** button.
-
-  ### How to update a post
-1. At the left pane, click the **Posts**, hover over the desired post and click **Edit**.
-![Image2.3](/img/2.3.png) 
-
-
-2. Once the required content is added or edited click **Update** button. 
-![Image2.4](/img/2.4.PNG)   
-
-  ### How to delete a post
-1. Proceed to the **Posts page** then hover over the desired post and click **Trash**
-![Image2.5](/img/2.5.PNG)
 
 
 - ### Manage forum activities or newsfeed
