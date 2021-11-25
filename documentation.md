@@ -21,7 +21,7 @@
 	- How to delete an activity
 
 - Create Menu			
-- Manage profile/ accounts			
+- Manage users profile
 - Upload personal/ group documents and images			
 - Message another member			
 - Participate in a forum			
