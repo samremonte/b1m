@@ -24,3 +24,5 @@
   
 **1. Proceed to the _Posts page_ then hover over the desired post and then click _Trash_.**
 ![Image2.5](/img/2.5.PNG)
+
+**2. And then click _Ok_.**
