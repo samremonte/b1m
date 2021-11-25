@@ -95,5 +95,4 @@
 - Submit Assignments			
 - How to participate in a zoom meeting			
 - Create/ Update/ Delete Zoom Meeting			
-- Create/ Update/ Delete Form
-- 			
+- Create/ Update/ Delete Form		
