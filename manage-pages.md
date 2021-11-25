@@ -28,4 +28,3 @@
 1. Proceed to the **Pages page** then hover over the desired page and click **Trash**.
 
 ![Image2.5](/img/2.5.PNG)
-
