@@ -8,15 +8,16 @@
 ![Image5.1](/img/5.1.PNG)
 
 
- **2. Type the name of the menu.**
+ **2. Type the desired name of the name and click _Create Menu_ button.**
 
 ![Image5.2](/img/5.2.PNG)
 
 
- **3. Set privacy if you desire then click _Post Update_ to publish.**
+ **3. Once menu is created, select menu items from _Pages_, _Posts_, or _Categories_ and then click _Add to Menu_.**
 
 ![Image5.3](/img/5.3.PNG)
 
+ **4. Choose where to display the menu by selecting the _Display Location_ and then click _Save Menu_
   <h2> How to update a page </h2>
   
  **1. Click the ellipsis icon and then click _Edit_.**
