@@ -15,7 +15,7 @@
 	- How to update a page
 	- How to delete a page
 
-- #### [Manage activities/newsfeed](https://github.com/samremonte/b1m/edit/main/manage-newsfeed.md)
+- #### [Manage activities/newsfeed](https://github.com/samremonte/b1m/blob/main/manage-newsfeed.md)
 	- How to create an activity
 	- How to update an activity
 	- How to delete an activity
