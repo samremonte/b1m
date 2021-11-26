@@ -8,7 +8,7 @@
 ![Image5.1](/img/5.1.PNG)
 
 
- **2. Type the desired name of the Menu and click _Create Menu_ button.**
+ **2. Type the desired name of the Menu and then click _Create Menu_ button.**
 
 ![Image5.2](/img/5.2.PNG)
 
@@ -18,7 +18,7 @@
 
  **4. Choose where to display the menu by selecting the _Display location_ and then click _Save Menu_**.
   
-  <h2>How to delete a _menu_</h2>
+  <h2>How to delete a Menu</h2>
  
   **1. Select the target menu**   
  
