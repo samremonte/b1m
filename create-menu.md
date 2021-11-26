@@ -42,8 +42,6 @@
  
  **1. Select the target menu**
 
- ![Image5.5](/img/5.6.PNG)  
-
  **2. Find the desired item, update _URL_ and _Navigation label_**.
 
 ![Image5.7](/img/5.7.PNG)
@@ -51,3 +49,10 @@
  **3. And then click _Save Menu_.**
  
   <h2>How to delete menu items</h2>
+  
+ **1. Select the target menu**
+ 
+ **2. Find the desired item and then click _Remove_**.
+
+![Image5.11](/img/5.11.PNG)
+
