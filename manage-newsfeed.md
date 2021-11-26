@@ -6,9 +6,9 @@
 ![Image4.1](/img/4.1.PNG)
 
 
- **2. Post your activity whether it is a text content, photo, video or even upload a file.**
+ **2. Write about your activity and upload media files together.**
 
-![Image3.2](/img/3.2.PNG)
+![Image4.2](/img/4.2.PNG)
 
 
  **3. Once done, click the _Publish_ button.**
