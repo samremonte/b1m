@@ -1,4 +1,4 @@
-- # Community post or activity
+- # Community post or activity (For member's)
   <h2>How to create an acitivity</h2>
   
  **1. Proceed to your homepage or to the Community activity page.**
@@ -17,22 +17,19 @@
 
   <h2> How to update a page </h2>
   
- **1. At the left pane, click the Pages, hover over the desired page and click _Edit_.**
+ **1. Click the ellipsis icon and then click _Edit_.**
 
-![Image3.3](/img/3.3.PNG) 
+![Image3.3](/img/4.4.PNG) 
 
 
- **2. Once the required content is added or edited click _Update_ button.** 
-
-![Image3.4](/img/3.4.PNG)
-
+ **2. Once the done click _Post Update_ button.** 
 
   <h2>How to delete a page</h2>
   
-  **1. Proceed to the Pages page then hover over the desired page and click _Trash_.**
+ **1. Click the ellipsis icon and then click _Delete_.**
 
-![Image3.5](/img/3.5.PNG)
+![Image3.4](/img/4.5.PNG)
 
-  **2. And then click _Ok_.**
+  **2. And then click _Ok_ to confirm.**
   
 
