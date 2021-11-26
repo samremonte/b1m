@@ -3,7 +3,7 @@
 - # Community post or activity (For member's)
   <h2>How to create an acitivity</h2>
   
- **1. Proceed to your homepage or to the Community activity page.**
+ **1. Proceed to the homepage or to the Community activity page.**
 
 ![Image4.1](/img/4.1.PNG)
 
@@ -17,7 +17,7 @@
 
 ![Image4.3](/img/4.3.PNG)
 
-  <h2> How to update a activity </h2>
+  <h2> How to update an activity </h2>
   
  **1. Click the ellipsis icon and then click _Edit_.**
 
@@ -26,7 +26,7 @@
 
  **2. Once the done click _Post Update_ button.** 
 
-  <h2>How to delete a activity</h2>
+  <h2>How to delete an activity</h2>
   
  **1. Click the ellipsis icon and then click _Delete_.**
 
