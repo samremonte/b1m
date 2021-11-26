@@ -5,17 +5,17 @@
   
  **1. At the Dashboard page, hover over the _Appearance_ then click the _Menu_.**
 
-![Image4.1](/img/4.1.PNG)
+![Image5.1](/img/5.1.PNG)
 
 
- **2. Write about your activity and upload media files together.**
+ **2. Type the name of the menu.**
 
-![Image4.2](/img/4.2.PNG)
+![Image5.2](/img/5.2.PNG)
 
 
  **3. Set privacy if you desire then click _Post Update_ to publish.**
 
-![Image4.3](/img/4.3.PNG)
+![Image5.3](/img/5.3.PNG)
 
   <h2> How to update a page </h2>
   
