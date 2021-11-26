@@ -17,7 +17,15 @@
 ![Image5.3](/img/5.3.PNG)
 
  **4. Choose where to display the menu by selecting the _Display location_ and then click _Save Menu_**.
+  
+  <h2>How to delete a _menu_</h2>
+ 
+  **1. Select the target menu**   
+ 
+![Image5.5](/img/5.6.PNG) 
 
+  **2. And then click _Delete Menu_**.
+  
   <h2>How to add custom links, category links to the Menu</h2>
   
  **1. Click the Custom Links dropdown then type in the _URL_ and _Link Text_, and then click the _Add to Menu_**
@@ -30,9 +38,7 @@
   
  **1. Select the target menu**   
  
-![Image5.5](/img/5.6.PNG)  
-
- **2. Find the item then drag it to the desired position.**
+ **2. Find the target item and then drag it to the desired position.**
  
 ![Image5.5](/img/5.5.PNG) 
 
@@ -54,5 +60,6 @@
  
  **2. Find the desired item and then click _Remove_**.
 
-![Image5.11](/img/5.11.PNG)
+![Image5.11](/img/5.11.png)
 
+ **3. And then click _Save Menu_.**
