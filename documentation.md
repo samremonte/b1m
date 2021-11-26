@@ -48,37 +48,8 @@
 1. Once you have acquired your login information proceed to the website by clicking the link https://b1m.org/wp-admin/
 2. On the login page, type in your **Username** and **Password** to the text fields respectively and then press the Log in button.
 ![Image](/img/1-1-Login.PNG)
-&nbsp;
-##
 
 
 
 
-- ### Manage forum activities or newsfeed
-  ### How to Create an activity or newsfeed
-  ### How to Update an activity
-  ### How to Delete an activity
-			
-- Create/ Post/ Update/ Delete a page			
-- Create Menu			
-- Publish post			
-- Manage profile/ accounts			
-- Upload personal/ group documents and images			
-- Message another member			
-- Participate in a forum			
-- Create/ Update/ Delete User			
-- Create/ Update/ Delete Group			
-- Create/ Update/ Delete Forums			
-- Create/ Update/ Delete Categories			
-- Create/ Update/ Delete Tags			
-- Create/ Update/ Delete Course			
-- Create/ Update/ Delete Lesson			
-- Create/ Update/ Delete Topics			
-- Create/ Update/ Delete Assignments			
-- Create/ Update/ Delete Quiz			
-- Enroll and pursue a course			
-- Take Quiz			
-- Submit Assignments			
-- How to participate in a zoom meeting			
-- Create/ Update/ Delete Zoom Meeting			
-- Create/ Update/ Delete Form		
+
