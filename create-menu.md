@@ -13,11 +13,12 @@
 ![Image5.2](/img/5.2.PNG)
 
 
- **3. Once menu is created, select menu items from _Pages_, _Posts_, or _Categories_ and then click _Add to Menu_.**
+ **3. Once menu is created, select menu items from _Pages_, _Posts_, or _Categories_ and then click _Add to Menu_**.
 
 ![Image5.3](/img/5.3.PNG)
 
- **4. Choose where to display the menu by selecting the _Display Location_ and then click _Save Menu_
+ **4. Choose where to display the menu by selecting the _Display location_ and then click _Save Menu_**.
+
   <h2> How to update a page </h2>
   
  **1. Click the ellipsis icon and then click _Edit_.**
