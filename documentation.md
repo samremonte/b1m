@@ -21,7 +21,13 @@
 	- How to delete an activity
 
 - Create Menu			
+
+
 - Manage users profile
+	- How to add user
+	- How to update user profile
+	- How to delete user
+
 - Upload personal/ group documents and images			
 - Message another member			
 - Participate in a forum			
