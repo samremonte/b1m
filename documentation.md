@@ -21,7 +21,12 @@
 	- How to delete an activity
 
 - Create Menu			
-
+	- How to create a Menu
+	- How to delete a Menu
+	- How to add custom, post and category links to the Menu
+	- How to make sub items in the Menu
+	- How to update menu items
+	- How to delete menu items
 
 - Manage users profile
 	- How to add user
