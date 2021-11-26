@@ -26,12 +26,4 @@
 
  **2. Once finished, click _Save Menu_ button.** 
 
-  <h2>How to make _sub items_ in the Menu</h2>
-  
- **1. Click the ellipsis icon and then click _Delete_.**
-
-![Image3.4](/img/4.5.PNG)
-
-  **2. And then click _Ok_ to confirm.**
-  
-
+  <h2>How to make sub items in the Menu</h2>
