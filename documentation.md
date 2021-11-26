@@ -20,7 +20,7 @@
 	- How to update an activity
 	- How to delete an activity
 
-- ### [Manage Menu](https://github.com/samremonte/b1m/blob/main/create-menu.md)
+- #### [Manage website menu](https://github.com/samremonte/b1m/blob/main/create-menu.md)
 	- How to create a Menu
 	- How to delete a Menu
 	- How to add custom, post and category links to the Menu
