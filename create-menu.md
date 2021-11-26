@@ -8,27 +8,25 @@
 ![Image5.1](/img/5.1.PNG)
 
 
- **2. Type the desired name of the name and click _Create Menu_ button.**
+ **2. Type the desired name of the Menu and click _Create Menu_ button.**
 
 ![Image5.2](/img/5.2.PNG)
 
-
- **3. Once menu is created, select menu items from _Pages_, _Posts_, or _Categories_ and then click _Add to Menu_**.
+ **3. Once the menu is created, select menu items from _Pages_ and then click _Add to Menu_**.
 
 ![Image5.3](/img/5.3.PNG)
 
  **4. Choose where to display the menu by selecting the _Display location_ and then click _Save Menu_**.
 
-  <h2> How to update a page </h2>
+  <h2>How to add custom links, category links to the Menu</h2>
   
- **1. Click the ellipsis icon and then click _Edit_.**
+ **1. Click the Custom Links dropdown then type in the _URL_ and _Link Text_, and then click the _Add to Menu_**
 
-![Image3.3](/img/4.4.PNG) 
+![Image5.4](/img/5.4.PNG) 
 
+ **2. Once finished, click _Save Menu_ button.** 
 
- **2. Once the done click _Post Update_ button.** 
-
-  <h2>How to delete a page</h2>
+  <h2>How to make _sub items_ in the Menu</h2>
   
  **1. Click the ellipsis icon and then click _Delete_.**
 
