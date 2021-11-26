@@ -26,7 +26,7 @@
 
   **2. And then click _Delete Menu_**.
   
-  <h2>How to add custom links, category links to the Menu</h2>
+  <h2>How to add custom, post and category links to the Menu</h2>
   
  **1. Click the Custom Links dropdown then type in the _URL_ and _Link Text_, and then click the _Add to Menu_**
 
