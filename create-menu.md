@@ -36,14 +36,18 @@
  
 ![Image5.5](/img/5.5.PNG) 
 
- **2. And then click _Save Menu_.**
+ **3. And then click _Save Menu_.**
 
  <h2>How to update menu items</h2>
+ 
+ **1. Select the target menu**
 
- **1. Update _URL_ and _Navigation label_**.
+ ![Image5.5](/img/5.6.PNG)  
+
+ **2. Find the desired item, update _URL_ and _Navigation label_**.
 
 ![Image5.7](/img/5.7.PNG)
 
- **2. And then click _Save Menu_.**
+ **3. And then click _Save Menu_.**
  
   <h2>How to delete menu items</h2>
