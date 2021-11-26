@@ -11,8 +11,9 @@
 ![Image4.2](/img/4.2.PNG)
 
 
- **3. Once done, click the _Publish_ button.**
+ **3. Set privacy if you desire then click _Post Update_ to publish.**
 
+![Image4.3](/img/4.3.PNG)
 
   <h2> How to update a page </h2>
   
