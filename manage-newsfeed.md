@@ -1,7 +1,7 @@
 - # Community post or activity
   <h2>How to create an acitivity</h2>
   
- **1. Proceed to the homepage.**
+ **1. Proceed to your homepage or the Community activity page.**
 
 ![Image4.1](/img/4.1.PNG)
 
