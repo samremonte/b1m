@@ -30,6 +30,6 @@
 
  **1. Drag the menu item to the desired position.**
  
-![Image5.8](/img/5.8.PNG) 
+![Image5.5](/img/5.5.PNG) 
 
  **2. And then click _Save Menu_.**
