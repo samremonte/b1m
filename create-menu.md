@@ -27,3 +27,9 @@
  **2. Once finished, click _Save Menu_ button.** 
 
   <h2>How to make sub items in the Menu</h2>
+
+ **1. Drag the menu item to the desired position.**
+ 
+![Image5.8](/img/5.8.PNG) 
+
+ **2. And then click _Save Menu_.**
