@@ -27,8 +27,12 @@
  **2. Once finished, click _Save Menu_ button.** 
 
   <h2>How to make sub items in the Menu</h2>
+  
+ **1. Select the target menu**   
+ 
+![Image5.5](/img/5.6.PNG)  
 
- **1. Drag the menu item to the desired position.**
+ **2. Find the item then drag it to the desired position.**
  
 ![Image5.5](/img/5.5.PNG) 
 
@@ -39,3 +43,7 @@
  **1. Update _URL_ and _Navigation label_**.
 
 ![Image5.7](/img/5.7.PNG)
+
+ **2. And then click _Save Menu_.**
+ 
+  <h2>How to delete menu items</h2>
