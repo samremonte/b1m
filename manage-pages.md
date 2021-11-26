@@ -1,3 +1,5 @@
+[Back to main page](https://github.com/samremonte/b1m/blob/main/documentation.md)
+
 - # Manage pages
   <h2>How to create a page</h2>
   
