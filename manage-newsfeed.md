@@ -17,7 +17,7 @@
 
 ![Image4.3](/img/4.3.PNG)
 
-  <h2> How to update a page </h2>
+  <h2> How to update a activity </h2>
   
  **1. Click the ellipsis icon and then click _Edit_.**
 
@@ -26,7 +26,7 @@
 
  **2. Once the done click _Post Update_ button.** 
 
-  <h2>How to delete a page</h2>
+  <h2>How to delete a activity</h2>
   
  **1. Click the ellipsis icon and then click _Delete_.**
 
