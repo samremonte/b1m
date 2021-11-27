@@ -54,7 +54,7 @@
 	- How to upload _featured image_ to the course
 	- How to upload _cover photo_ to the course
 
-- #### Manage course _lesson_
+- #### Manage course lessons
 	- How to create lesson
 	- How to update lesson
 	- How to delete lesson
