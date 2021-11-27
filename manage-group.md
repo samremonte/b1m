@@ -40,7 +40,7 @@
 
 ![Image7.9](/img/7.9.PNG)
 
-**10. And then click _Finish_ buton.**
+**10. And then click _Finish_ button.**
 
 ![Image7.10](/img/7.10.PNG)
 
