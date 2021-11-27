@@ -36,22 +36,29 @@
 	- How to reset user's password via email.
 
 - #### [Manage Group/Forums](https://github.com/samremonte/b1m/blob/main/manage-group.md)
-
-- #### Manage group members
-
-- #### Delete group
-
-- #### Manage group media files
-
-- #### Manage member's media files
+	- How to delete group
+	- How to manage group members
+	- How to manage group media files
+	- Manage member's media files
  
 - #### Message another member			
 
 - #### Participate in a forum discussion			
 
-- Create/ Update/ Delete Course
-	How to 
-- Create/ Update/ Delete Lesson			
+- #### Manage website Course
+	- How to create course
+	- How to update course
+	- How to delete course
+	- How to add _categories_ to the course
+	- How to add _tags_ to the course
+	- How to upload _featured image_ to the course
+	- How to upload _cover photo_ to the course
+
+- #### Manage course _lesson_
+	- How to create lesson
+	- How to update lesson
+	- How to delete lesson
+
 - Create/ Update/ Delete Topics			
 - Create/ Update/ Delete Assignments			
 - Create/ Update/ Delete Quiz			
