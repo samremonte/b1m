@@ -48,6 +48,8 @@
 
 **3. Once password is saved click the _Update User_ button to apply changes.**
 
-<h2>How to _Reset_ user's password via email.</h2>
+<h2>How to reset user's password via email.</h2>
 
 **1. On the _Edit User_ page click the _Send Reset Link_ button.**
+
+
