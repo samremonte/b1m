@@ -18,7 +18,7 @@
 
 **4. Tick the box to create a discussion _forum_ of this group and click _Next Step_.**
 
-![Image7.4}(/img/7.4.PNG)
+![Image7.4](/img/7.4.PNG)
 
 **5. Upload group _logo_ by choosing a file in your computer.**
 
