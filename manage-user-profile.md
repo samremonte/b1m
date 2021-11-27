@@ -8,7 +8,7 @@
 
 ![Image6.1](/img/6.1.PNG)
 
-**2. On the _Add New User_ type in the required user details.**
+**2. On the _Add New User_ page type in the required user details.**
 
 ![Image6.1](/img/6.7.PNG)
 
