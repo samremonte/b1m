@@ -60,6 +60,7 @@
 - ### How to login to the website
 1. Once you have acquired your login information proceed to the website by clicking the link https://b1m.org/wp-admin/
 2. On the login page, type in your **Username** and **Password** to the text fields respectively and then press the Log in button.
+
 ![Image](/img/1-1-Login.PNG)
 
 
