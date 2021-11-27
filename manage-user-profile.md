@@ -14,7 +14,7 @@
 
 **3. Once done click _Add New User_.**
 
-<h2>How to update user profile</h2>
+<h2>How to update user's profile</h2>
 
 **1. On the _Users page_, hover over the profile and then click _Edit_**
 
@@ -28,7 +28,7 @@
 
 <h2>How to delete user</h2>
 
-**1. On the _Users page_, hover over the profile and then click _Delete_**
+**1. On the _Users page_, hover over the user and then click _Delete_**
 
 ![Image6.2.2](/img/6.2.2.png)
 
