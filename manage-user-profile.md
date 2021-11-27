@@ -16,7 +16,7 @@
 
 <h2>How to update user's profile</h2>
 
-**1. On the _Users page_, hover over the profile and then click _Edit_**
+**1. On the _Users page_, hover over the user and then click _Edit_**
 
 ![Image6.2.1](/img/6.2.1.png)
 
