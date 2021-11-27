@@ -28,7 +28,7 @@
 	- How to update menu items
 	- How to delete menu items
 
-- ### [Manage user profile](https://github.com/samremonte/b1m/blob/main/manage-user-profile.md)
+- #### [Manage user profile](https://github.com/samremonte/b1m/blob/main/manage-user-profile.md)
 	- How to add user
 	- How to update user's profile
 	- How to delete user
