@@ -35,6 +35,8 @@
 	- How to set new password manually
 	- How to reset user's password via email.
 
+- #### [Manage Group](https://github.com/samremonte/b1m/blob/main/manage-group.md)
+
 - Upload personal/ group documents and images			
 - Message another member			
 - Participate in a forum			
