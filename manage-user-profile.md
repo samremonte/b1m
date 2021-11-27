@@ -4,7 +4,7 @@
 
 <h2>How to add user</h2>
 
-**1. On the left pane click _Users_ then click Add New button**
+**1. On the left pane click _Users_ then hit Add New button**
 
 ![Image6.1](/img/6.1.PNG)
 
