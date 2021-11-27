@@ -35,17 +35,22 @@
 	- How to set new password manually
 	- How to reset user's password via email.
 
-- #### [Manage Group](https://github.com/samremonte/b1m/blob/main/manage-group.md)
+- #### [Manage Group/Forums](https://github.com/samremonte/b1m/blob/main/manage-group.md)
 
-- Upload personal/ group documents and images			
-- Message another member			
-- Participate in a forum			
-- Create/ Update/ Delete User			
-- Create/ Update/ Delete Group			
-- Create/ Update/ Delete Forums			
-- Create/ Update/ Delete Categories			
-- Create/ Update/ Delete Tags			
-- Create/ Update/ Delete Course			
+- #### Manage group members
+
+- #### Delete group
+
+- #### Manage group media files
+
+- #### Manage member's media files
+ 
+- #### Message another member			
+
+- #### Participate in a forum discussion			
+
+- Create/ Update/ Delete Course
+	How to 
 - Create/ Update/ Delete Lesson			
 - Create/ Update/ Delete Topics			
 - Create/ Update/ Delete Assignments			
