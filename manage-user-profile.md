@@ -4,7 +4,7 @@
 
 <h2>How to add user</h2>
 
-**1. On the left pane click _Users_ then hit Add New button**
+**1. On the left pane click _Users_ then hit Add New button.**
 
 ![Image6.1](/img/6.1.PNG)
 
@@ -16,11 +16,11 @@
 
 <h2>How to update user's profile</h2>
 
-**1. On the _Users page_, hover over the user and then click _Edit_**
+**1. On the _Users page_, hover over the user and then click _Edit_.**
 
 ![Image6.2.1](/img/6.2.1.png)
 
-**2. Update the required user information in the text fields**.
+**2. Update the required user information in the text fields.**
 
 ![Image6.3](/img/6.3.PNG)
 
@@ -28,11 +28,11 @@
 
 <h2>How to delete user</h2>
 
-**1. On the _Users page_, hover over the user and then click _Delete_**
+**1. On the _Users page_, hover over the user and then click _Delete_.**
 
 ![Image6.2.2](/img/6.2.2.png)
 
-**2. To transfer user's content to other user, select _Attribute all content to:_ and then choose user in the dropdown**
+**2. To transfer user's content to other user, select _Attribute all content to:_ and then choose user in the dropdown.**
 
 ![Image6.6](/img/6.6.PNG)
 
