@@ -28,10 +28,12 @@
 	- How to update menu items
 	- How to delete menu items
 
-- Manage users profile
+- ### [Manage user profile](https://github.com/samremonte/b1m/blob/main/manage-user-profile.md)
 	- How to add user
-	- How to update user profile
+	- How to update user's profile
 	- How to delete user
+	- How to set new password manually
+	- How to reset user's password via email.
 
 - Upload personal/ group documents and images			
 - Message another member			
