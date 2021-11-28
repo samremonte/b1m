@@ -35,9 +35,10 @@
 	- How to set new password manually
 	- How to reset user's password via email.
 
-- #### [Manage member's user profile]
+- #### [Manage member's user profile page](https://github.com/samremonte/b1m/blob/main/manage-user-profile-page.md)
 	- How to upload profile photo
 	- How to upload cover photo
+	- How to edit profile info.
 	
 - #### [Manage Group/Forums](https://github.com/samremonte/b1m/blob/main/manage-group.md)
 	- How to delete group
