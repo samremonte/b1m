@@ -24,13 +24,13 @@
 
  <h2>How to add categories to the course</h2>
 
-**1. At the course page editor, click on the _Course Categories_ and type in the desired _Categories_ and then press enter.**
+**1. At the course page editor, click on the _Course Categories_ and then type in the desired _Categories_ and then press enter.**
 
 ![Image12.11](/img/12.11.PNG)
 
  <h2>How to add tags to the course</h2>
  
-**1. At the course page editor, click on the _Course Tags_ and type in the desired _Tags_.**
+**1. At the course page editor, click on the _Course Tags_ and then type in the desired _Tags_.**
 
 ![Image12.12](/img/12.12.PNG)
 
