@@ -49,7 +49,7 @@
 
 - #### [Participate in a forum discussion](https://github.com/samremonte/b1m/blob/main/forum-discussion.md)
 
-- #### Manage website Course
+- #### [Manage website Course](https://github.com/samremonte/b1m/blob/main/manage-website-course.md)
 	- How to create course
 	- How to update course
 	- How to delete course
