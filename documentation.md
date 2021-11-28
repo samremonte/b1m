@@ -28,22 +28,26 @@
 	- How to update menu items
 	- How to delete menu items
 
-- #### [Manage user profile](https://github.com/samremonte/b1m/blob/main/manage-user-profile.md)
+- #### [Manage user profile](https://github.com/samremonte/b1m/blob/main/manage-user-profile.md)(Admin)
 	- How to add user
 	- How to update user's profile
 	- How to delete user
 	- How to set new password manually
 	- How to reset user's password via email.
 
+- #### [Manage member's user profile]
+	- How to upload profile photo
+	- How to upload cover photo
+	
 - #### [Manage Group/Forums](https://github.com/samremonte/b1m/blob/main/manage-group.md)
 	- How to delete group
 	- How to manage group members
 	- How to manage group media files
-	- Manage member's media files
- 
-- #### Message another member			
+	- Manage member's media files\
+	
+- #### [Message another member](https://github.com/samremonte/b1m/blob/main/message-another-member.md)
 
-- #### Participate in a forum discussion			
+- #### [Participate in a forum discussion](https://github.com/samremonte/b1m/blob/main/forum-discussion.md)
 
 - #### Manage website Course
 	- How to create course
