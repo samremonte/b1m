@@ -34,7 +34,7 @@
 
 **1. On the _Courses_ page, hover over the desired course and then click _Delete_.**
 
-![Image12.18](/img/12.18.PNG)
+![Image12.18](/img/12.18.png)
 
 **2. Click Ok to confirm.**
 
