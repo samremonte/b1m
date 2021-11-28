@@ -22,18 +22,36 @@
 
 ![Image12.5](/img/12.5.PNG)
 
-**6. Upload a featured image by clicking the _Set featured image_.**
+ <h2>How to add categories to the course</h2>
+
+**1. At the course page editor, click on the _Course Categories_ and type in the desired _Categories_ and then press enter.**
+
+![Image12.11](/img/12.11.PNG)
+
+ <h2>How to add tags to the course</h2>
+ 
+**1. At the course page editor, click on the _Course Tags_ and type in the desired _Tags_.**
+
+![Image12.12](/img/12.12.PNG)
+
+ <h2>How to add Course featured image</h2>
+
+**1. Upload a featured image by clicking the _Set featured image_.**
 
 ![Image12.6](/img/12.6.PNG)
 
-**7. Find the desired image and then click _Set featured image_.**
+**2. Find the desired image and then click _Set featured image_.**
 
 ![Image12.7](/img/12.7.PNG)
 
-**8. Upload a cover photo by clicking the _Set Cover Photo_.**
+<h2>How to add Course cover photo</h2>
+
+**1. Upload a cover photo by clicking the _Set Cover Photo_.**
 
 ![Image12.8](/img/12.8.PNG)
 
-**9. find the desired cover photo and then click _Set cover photo_.**
+**2. find the desired cover photo and then click _Set cover photo_.**
+
+![Image12.9](/img/12..PNG)
 
 ![Image12.10](/img/12.10.PNG)
