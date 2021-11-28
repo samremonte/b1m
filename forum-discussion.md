@@ -8,7 +8,7 @@
 
 ![Image10.1](/img/10.1.PNG)
 
- **2. Click _New discussion_ button.**
+ **2. Click _New discussion_ button and compose your desired topic.**
 
 ![Image10.2](/img/10.2.PNG)
 
