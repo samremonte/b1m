@@ -75,7 +75,7 @@
 	- How to update topics
 	- How to delete topics
 
-- #### Manage Quiz		
+- #### [Manage Quiz](https://github.com/samremonte/b1m/blob/main/manage-quizzes.md)
 	- How to create quiz
 	- How to update quiz
 	- How to delete quiz
