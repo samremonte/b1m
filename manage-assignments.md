@@ -30,7 +30,7 @@
 
 **1. On the assignments page, hover over the desired assignment and then click _Trash_.**
 
-![Image16.7](/img/16.7.PNG)
+![Image16.7](/img/16.7.png)
 
 **2. click _ok_ to confirm.**
 
