@@ -40,6 +40,6 @@
 
 ![Image16.4](/img/16.4.PNG)
 
-**2. On the _Settings_ tab, enable Assignment Uploads and Points by toggling the switch box.
+**2. On the _Settings_ tab, enable Assignment Uploads and Points by toggling the switch box.**
 
 ![Image16.5](/img/16.5.PNG)
