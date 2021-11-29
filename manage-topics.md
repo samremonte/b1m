@@ -22,7 +22,7 @@
 
 ![Image14.4](/img/14.4.PNG)
 
-<h2>How to update assignments</h2>
+<h2>How to update topic</h2>
 
 **1. On the Topics page, hover over the desired topic and then click _Edit_.**
 
@@ -30,7 +30,7 @@
 
 **2. Once done with the changes click _Update_ button to save**
 
-<h2>How to delete Topics</h2>
+<h2>How to delete topic</h2>
 
 **1. On the Topics page, hover over the desired topic and then click _Trash_.**
 
