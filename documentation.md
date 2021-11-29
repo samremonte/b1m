@@ -64,7 +64,7 @@
 	- How to update lesson
 	- How to delete lesson
 
-- #### Manage Assignments			
+- #### [Manage Assignments]
 	- How to create assignments
 	- How to update assignments
 	- How to delete assignments
