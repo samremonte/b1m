@@ -40,9 +40,9 @@
 
 ![Image17.10](/img/17.10.PNG)
 
-**1. On the _Quizzes_ page, hover over the required quiz and then click _Edit_.**
-
 <h2>How to update quiz.</h2>
+
+**1. On the _Quizzes_ page, hover over the required quiz and then click _Edit_.**
 
 **2. Once done, click _Update_ button.**
 
