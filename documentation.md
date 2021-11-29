@@ -70,7 +70,7 @@
 	- How to delete assignments
 	- How to enable Assignment Uploads and Points
 
-- #### Manage Topics			
+- #### [Manage Topics](https://github.com/samremonte/b1m/blob/main/manage-topics.md)
 	- How to create topics
 	- How to update topics
 	- How to delete topics
