@@ -59,20 +59,38 @@
 	- How to upload _featured image_ to the course
 	- How to upload _cover photo_ to the course
 
-- #### Manage course lessons
+- #### [Manage course lessons](https://github.com/samremonte/b1m/blob/main/manage-lessons.md)
 	- How to create lesson
 	- How to update lesson
 	- How to delete lesson
 
-- Create/ Update/ Delete Topics			
-- Create/ Update/ Delete Assignments			
-- Create/ Update/ Delete Quiz			
+- #### Manage Assignments			
+	- How to create assignments
+	- How to update assignments
+	- How to delete assignments
+
+- #### Manage Topics			
+	- How to create topics
+	- How to update topics
+	- How to delete topics
+
+- #### Manage Quiz		
+	- How to create quiz
+	- How to update quiz
+	- How to delete quiz
+
 - Enroll and pursue a course			
+
 - Take Quiz			
+
 - Submit Assignments			
+
 - How to participate in a zoom meeting			
+
 - Create/ Update/ Delete Zoom Meeting			
+
 - Create/ Update/ Delete Form
+
 &nbsp;
 &nbsp;
 #
