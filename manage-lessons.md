@@ -14,7 +14,7 @@
 
 ![Image15.2](/img/15.2.PNG)
 
-**4. Add lesson to the course.
+**4. Add lesson to the course.**
 
 ![Image15.3](/img/15.3.PNG)
 
