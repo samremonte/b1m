@@ -1,7 +1,7 @@
 [Back to main page](https://github.com/samremonte/b1m/blob/main/documentation.md)
 
 - # Manage assignments
-- 
+
 <h2>How to create assignments</h2>
 
 **1. At the left pane, hover over the _LearnDash LMS_ then click _Assignments_.**
