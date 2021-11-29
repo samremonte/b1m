@@ -64,10 +64,11 @@
 	- How to update lesson
 	- How to delete lesson
 
-- #### [Manage Assignments]
+- #### [Manage Assignments](https://github.com/samremonte/b1m/blob/main/manage-assignments.md)
 	- How to create assignments
 	- How to update assignments
 	- How to delete assignments
+	- How to enable Assignment Uploads and Points
 
 - #### Manage Topics			
 	- How to create topics
