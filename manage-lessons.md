@@ -30,4 +30,4 @@
 
 **1. On the _Lessons_ page, hover over ther desired lesson and click _Trash_.**
 
-![Image15.5](/img/15.5.PNG)
+![Image15.5](/img/15.5.png)
