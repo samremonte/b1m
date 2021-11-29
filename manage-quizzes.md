@@ -39,3 +39,15 @@
 **9. Tick the check box to allow only registered users to take the _Quiz_.**
 
 ![Image17.10](/img/17.10.PNG)
+
+**1. On the _Quizzes_ page, hover over the required quiz and then click _Edit_.**
+
+<h2>How to update quiz.</h2>
+
+**2. Once done, click _Update_ button.**
+
+<h2>How to delete quiz</h2>
+
+**1. On the _Quizzes_ page, hover over the required quiz and then click _Trash_.**
+
+**2. Click _Ok_ to confirm.**
