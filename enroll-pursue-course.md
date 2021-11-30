@@ -18,7 +18,7 @@
 
 ![Image18.5](/img/18.5.PNG)
 
-**5. Answer all the quetionnaires and click _Finish Quiz_.**
+**5. Answer all the questionnaires and click _Finish Quiz_.**
 
 ![Image18.7](/img/18.7.PNG)
 
