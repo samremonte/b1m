@@ -80,7 +80,7 @@
 	- How to update quiz
 	- How to delete quiz
 
-- #### [Enroll and pursue a course]
+- #### [Enroll and pursue a course](https://github.com/samremonte/b1m/blob/main/enroll-pursue-course.md)
 	- Take the Course
 	- Start the Course
 	- Complete the lessons
