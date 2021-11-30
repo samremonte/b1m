@@ -80,11 +80,12 @@
 	- How to update quiz
 	- How to delete quiz
 
-- Enroll and pursue a course			
-
-- Take Quiz			
-
-- Submit Assignments			
+- #### [Enroll and pursue a course]
+	- Take the Course
+	- Start the Course
+	- Complete the lessons
+	- Take the Quiz			
+	- Submit Assignments			
 
 - How to participate in a zoom meeting			
 
