@@ -91,8 +91,9 @@
 
 - Create/ Update/ Delete Zoom Meeting			
 
-- Manage Form
-	- How to create Gravity form
+- #### [Manage Forms](https://github.com/samremonte/b1m/blob/main/manage-forms.md)
+	- How to create a form
+	- How to use the form
 	- How to update a form
 	- How to delete a form
 
