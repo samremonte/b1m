@@ -4,6 +4,7 @@
 <h2>How to create a form</h2>
 
 **1. At the left pane, hover over the Forms and then click _Forms_.**
+
 ![Image20.1](/img/20.1.PNG)
 
 **2. On the Forms page click _Add New_ button, type in the required _Form title_ and _Form description_ and then click _Create Form_ button to save.**
