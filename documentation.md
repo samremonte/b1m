@@ -91,7 +91,10 @@
 
 - Create/ Update/ Delete Zoom Meeting			
 
-- Create/ Update/ Delete Form
+- Manage Form
+	- How to create Gravity form
+	- How to update a form
+	- How to delete a form
 
 &nbsp;
 &nbsp;
