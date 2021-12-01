@@ -41,6 +41,10 @@
 
 **1. Proceed to the Forms page, hover over the desired form and the click _Edit_.**
 
+**2. Once the form is updated click _Save Form_**
+
 <h2>How to delete a form</h2>
 
 **1. Proceed to the Forms page, hover over the desired form and the click _Trash_.**
+
+**2. Click _OK_ to confirm.**
