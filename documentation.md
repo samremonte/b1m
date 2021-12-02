@@ -90,7 +90,7 @@
 - #### [Manage Zoom meeting](https://github.com/samremonte/b1m/blob/main/manage-zoom.md)
 	- How to integrate organizer's zoom account
 	- How to create Zoom meeting			
-	- How to send meeting invitation
+	- How to view meeting invitation details
 	- How to join a zoom meeting as member
 	- How to edit Zoom meeting
 	- How to delete Zoom meeting
