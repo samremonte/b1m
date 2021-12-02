@@ -22,7 +22,7 @@
 
 ![Image21.4](/img/21.4.PNG)
 
-**2. Click the _View Invitation_ link and then click the _Copy Meeting Invitation_ button to view the invitation details to be sent out. **
+**2. Click the _View Invitation_ link and then click the _Copy Meeting Invitation_ button to view the invitation details to be sent out.**
 
 ![Image21.5](/img/21.5.PNG)
 
