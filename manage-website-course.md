@@ -66,8 +66,8 @@
 
 ![Image12.8](/img/12.8.PNG)
 
-**2. find the desired cover photo and then click _Set cover photo_.**
+**2. Find the desired cover photo and then click _Set cover photo_.**
 
-![Image12.9](/img/12.PNG)
+![Image12.9](/img/12.9.PNG)
 
 ![Image12.10](/img/12.10.PNG)
