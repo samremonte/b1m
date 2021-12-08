@@ -1,5 +1,5 @@
 <p align="center">
-	![Image-logo](/img/horizontal-logo-sm.png)
+	<img src="https://github.com/samremonte/b1m/blob/main/img/horizontal-logo-sm.png?raw=true">
 </p>
 <h2 align="center">Bawat Isa Mahalaga - Website Documentation</h2>
 
