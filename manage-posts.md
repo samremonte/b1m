@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://github.com/samremonte/b1m/blob/main/img/horizontal-logo-sm.png?raw=true" width="300">
+</p>
+
 [Back to main page](https://github.com/samremonte/b1m/blob/main/documentation.md)
 
 - # Manage blog post or an article
