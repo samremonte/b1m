@@ -1,4 +1,7 @@
-## Bawat Isa Mahalaga - Website Documentation
+<p align="center">
+	![Image-logo](/img/horizontal-logo-sm.png)
+</p>
+<h2 align="center">Bawat Isa Mahalaga - Website Documentation</h2>
 
 > #### First, make sure you have obtained your login information to the website otherwise contact the administrator at b1m@gmail.com
 
