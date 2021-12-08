@@ -1,7 +1,7 @@
 <p align="center">
-	<img src="https://github.com/samremonte/b1m/blob/main/img/horizontal-logo-sm.png?raw=true">
+	<img src="https://github.com/samremonte/b1m/blob/main/img/horizontal-logo-sm.png?raw=true" width="400">
 </p>
-<h2 align="center">Bawat Isa Mahalaga - Website Documentation</h2>
+<h2 align="center">Website Documentation</h2>
 
 > #### First, make sure you have obtained your login information to the website otherwise contact the administrator at b1m@gmail.com
 
