@@ -1,3 +1,7 @@
+<p align="right">
+	<img src="https://github.com/samremonte/b1m/blob/main/img/horizontal-logo-sm.png?raw=true" width="200">
+</p>
+
 [Back to main page](https://github.com/samremonte/b1m/blob/main/documentation.md)
 
 - # Manage website course
